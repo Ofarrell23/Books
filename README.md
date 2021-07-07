@@ -15,7 +15,7 @@ Example of front page
 ![Screenshoot](build/static/media/books.gif)
 Example of dashboard page
 
-Heroku Deployment ()
+Heroku Deployment (https://mighty-everglades-62236.herokuapp.com/)
 
 # User Story
 An application created using the MERN stack and allows users to search for books via the Google Books API. Search results are dynamically rendered in the UI and users have the option to save and/or delete books.
