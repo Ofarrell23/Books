@@ -9,10 +9,10 @@
 
 ## Usage 
 
-![Screenshoot]()
+![Screenshoot](build/static/media/books.png)
 Example of front page
 
-![Screenshoot]()
+![Screenshoot](build/static/media/books.gif)
 Example of dashboard page
 
 Heroku Deployment ()

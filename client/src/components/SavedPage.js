@@ -25,34 +25,7 @@ function SavedPage() {
         console.log('delete something? : ', id)
         const apiBooks = await fetch(`/api/deleteBook/${id}`).then( result=>result.json() );
         loadBookList();
-        // setshowBookList( apiBooks );
-        
-        // const bookInfo = {
-        //     bookId: books.id,
-        //     title: books.volumeInfo.title,
-        //     imageThumb: books.volumeInfo.imageLinks.thumbnail,
-        //     link: books.volumeInfo.previewLink
-        // }
-        
-        // console.log('bookInfo ', bookInfo);
-        // const apiResult = await fetch('/api/saveBook', 
-        //     {   method: 'post',
-        //         headers: {
-        //             'Accept': 'application/json, text/plain, */*',
-        //             'Content-Type': 'application/json'
-        //         },
-        //         body: JSON.stringify(bookInfo)
-        // }).then( result=>result.json() );
-        
-        // console.log('apiResult: ', apiResult);
 
-        // if( apiResult.message ){
-        //     setAlertMessage( { type: 'success', message: apiResult.message } );
-        //     setTimeout( function(){ setAlertMessage( {} ); }, 3000 );
-        // } else {
-        //     setAlertMessage( { type: 'danger', message: apiResult.error } );
-        //     setTimeout( function(){ setAlertMessage( {} ); }, 3000 );
-        // }
     }
 
     console.log(`Show booklist is `,  showBookList)

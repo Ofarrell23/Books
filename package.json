@@ -1,7 +1,7 @@
 {
   "name": "google_books_search",
   "version": "1.0.0",
-  "description": "",
+  "description": "* [Usage](#usage) * [User Story](#userstory) * [Technologies](#technologies) * [Credits](#credits) * [License](#license)",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,18 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SaraMunir/google_books_search.git"
+    "url": "git+https://github.com/Ofarrell23/Books_search.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SaraMunir/google_books_search/issues"
+    "url": "https://github.com/Ofarrell23/Books_search/issues"
   },
-  "homepage": "https://github.com/SaraMunir/google_books_search#readme",
+  "homepage": "https://github.com/Ofarrell23/Books_search#readme",
   "dependencies": {
     "bcrypt": "^4.0.1",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "mongoose": "^5.9.7"
-  }
+  },
+  "devDependencies": {}
 }
