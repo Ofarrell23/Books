@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.something{
+  border: 1px solid rgb(212, 212, 212);
+  margin: 20px auto;
+  display: flex;
+  padding: 20px;
+  border-radius: 10px;
+  /* width: ; */
+}
+.bookImg {
+  /* height: 60vh; */
+  /* border: 1px solid blue; */
+  padding: 20px 10px;
+  /* width: 40vh;
+  height: 40vh; */
+}
+.bookImg img {
+  width: 50vh;
+  height: 60vh;
+  object-fit: contain;
+}
+.bookDesc {
+  /* border: 1px solid yellowgreen; */
+  padding: 25px;
+}
+.bookDesc2 {
+  /* border: 1px solid yellowgreen; */
+  width: 60vh;
+  padding: 25px;
+}
+.bookTitle{
+  /* border: 1px solid #14deed; */
+  height: 15vh;
+}
+.myBtnRgt {
+  width: 150px;
+  padding: 10px;
+  background-color: #ed145b;
+  border-radius: 20px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+.myBtn2 {
+  border-radius: 10px;
+  color: white;
+  padding: 10px 20px;
+  background: #ed145b;
+  margin: 5px;
+  cursor: pointer;
+}
+.myBtn2:hover {
+  text-decoration: none;
+  color: white;
+}
+.pinkFnt{
+  color: #ed145b;
+}
+.saveBtn {
+  margin: 5px;
+  cursor: pointer;
+}
+.centered{
+  border: 1px solid palevioletred;
+  width: 100%;
+  margin: 0 auto;
+}

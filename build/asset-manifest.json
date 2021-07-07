@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.332de420.chunk.css",
+    "main.js": "/static/js/main.ef93aa2e.chunk.js",
+    "main.js.map": "/static/js/main.ef93aa2e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.784c586e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.784c586e.js.map",
+    "static/js/2.1a47d65e.chunk.js": "/static/js/2.1a47d65e.chunk.js",
+    "static/js/2.1a47d65e.chunk.js.map": "/static/js/2.1a47d65e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d20c5445d69009d5bebf1f9e06ab0441.js": "/precache-manifest.d20c5445d69009d5bebf1f9e06ab0441.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.332de420.chunk.css.map": "/static/css/main.332de420.chunk.css.map",
+    "static/js/2.1a47d65e.chunk.js.LICENSE.txt": "/static/js/2.1a47d65e.chunk.js.LICENSE.txt",
+    "static/media/1200px-Google_Books_logo_2015.svg.png": "/static/media/1200px-Google_Books_logo_2015.svg.0d1c8667.png",
+    "static/media/paul-schafer-t6oZEgL0z18-unsplash.jpg": "/static/media/paul-schafer-t6oZEgL0z18-unsplash.13b28c48.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.784c586e.js",
+    "static/js/2.1a47d65e.chunk.js",
+    "static/css/main.332de420.chunk.css",
+    "static/js/main.ef93aa2e.chunk.js"
+  ]
+}
